@@ -58,7 +58,7 @@ if save == "yes":
 
 
 ## 📸 Demo
-(Add your LinkedIn video link here)
+(https://www.linkedin.com/posts/arjun-muluk-6aa938376_codealpha-python-internship-activity-7445365556364558337-lhJF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF0K-OIBxazuEX0o9OThcK5ZB0EuFP3B-LE)
 
 ## 🙌 Learning Outcome
 This project helped me understand how to work with real-world data and perform calculations using Python.
