@@ -55,3 +55,15 @@ if save == "yes":
         file.write(f"\nTotal Investment: {total_investment}")
     
     print("✅ Data saved to portfolio.txt")
+
+
+## 📸 Demo
+(Add your LinkedIn video link here)
+
+## 🙌 Learning Outcome
+This project helped me understand how to work with real-world data and perform calculations using Python.
+
+---
+
+⭐ Feel free to explore and give feedback!
+    
